@@ -1,0 +1,10 @@
+<GMail>
+	<RcvProtocol value="imaps" />
+	<RcvHost value="imap.googlemail.com" />
+	<RcvPort value="993" />
+	<RcvUser value="my@gmail.co.uk" />
+	<RcvPass value="XXXXXXXX" />
+	<SmtpHost value="smtp.googlemail.com" />
+	<SmtpUser value="my@gmail.co.uk" />
+	<SmtpPass value="XXXXXXX" />
+</GMail>
